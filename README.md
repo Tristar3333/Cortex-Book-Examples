@@ -1,5 +1,13 @@
-This repository contain example project files to be used by NXP MCUXpresso IDE
+# Book Example Projects
 
-The project files are introduced as examples in the book “The ARM Cortex M3 and M33 controllers” by Wolfgang Kramper
+This repository contains project examples written in C++ and assembler to be used in NXPs MCUXpresso IDE.
+MCUXpresso is an Eclipse IDE, customized by NXP for ARM development.
 
-Each ZIP archive was exported from MCUXpresso IDE. 
+*Die ARM Cortex-M3- und M33-Controller* (German)
+
+*The ARM Cortex M3 and M33 Controller* (English)
+
+In the book also a Java Card example was shown.
+This example was built with Eclipse (Kepler Edition) using NXP plugins for Java Card development.
+
+All project files are ZIP archives exported with the built-in methods of the IDE for exporting projects.
