@@ -1,4 +1,4 @@
-# Book Example Projects
+# Book Examples
 
 This repository contains project examples written in C++ and assembler to be used in NXPs MCUXpresso IDE.
 MCUXpresso is an Eclipse IDE, customized by NXP for ARM development.
