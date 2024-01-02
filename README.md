@@ -21,4 +21,5 @@ This example was built with Eclipse (Kepler Edition) using NXP plugins for Java 
 
 ## PLU Config Tool
 
-The *PLU Config Tool* is a NXP app for converting a Verilog file into C source file to be used in a LCP55S69 project.
+Contains a Verilog file for an implementation of a monoflop.
+The PLU Config tool converts the Verilog file into a C source file to extend the functionality on the LPC55S69.
