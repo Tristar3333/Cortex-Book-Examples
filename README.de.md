@@ -8,7 +8,7 @@ Sie können in die IDE importiert werden.
 
 *Die ARM Cortex-M3- und M33-Controller* (Deutsch), ISBN: 973-3-7578-9043-8
 
-*The ARM Cortex M3 and M33 Controller* (Englissh, noch nicht veröffentlicht)
+*The ARM Cortex M3 and M33 Controller* (English, noch nicht veröffentlicht)
 
 ## MCUXpresso
 
