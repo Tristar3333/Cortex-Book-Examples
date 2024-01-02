@@ -11,12 +11,12 @@ MCUXpresso is an Eclipse IDE, customized by NXP for ARM development.
 
 ## MCUXpresso
 
-Contain sample projects for NXP IDE *MCUXpresso*.
+Sample projects for NXP IDE *MCUXpresso*.
 All project files are ZIP archives exported with the built-in methods of the IDE for exporting projects.
 
 ## Eclipse
 
-Contain sample project for Java Card applet Simple.
+Sample project for Java Card applet Simple.
 This example was built with Eclipse (Kepler Edition) using NXP plugins for Java Card development.
 
 ## PLU Config Tool
