@@ -9,7 +9,16 @@ MCUXpresso is an Eclipse IDE, customized by NXP for ARM development.
 
 *The ARM Cortex M3 and M33 Controller* (English, not published yet)
 
-In the book also a Java Card example was shown.
+## MCUXpresso
+
+Contain sample projects for NXP IDE *MCUXpresso*.
+All project files are ZIP archives exported with the built-in methods of the IDE for exporting projects.
+
+## Eclipse
+
+Contain sample project for Java Card applet Simple.
 This example was built with Eclipse (Kepler Edition) using NXP plugins for Java Card development.
 
-All project files are ZIP archives exported with the built-in methods of the IDE for exporting projects.
+## PLU Config Tool
+
+The *PLU Config Tool* is a NXP app for converting a Verilog file into C source file to be used in a LCP55S69 project.
